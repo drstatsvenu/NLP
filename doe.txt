@@ -1,0 +1,14 @@
+Design of experiments (DOE) is a systematic method to determine the relationship between factors affecting a process and the output of that process. In other words, it is used to find cause-and-effect relationships. This information is needed to manage process inputs in order to optimize the output.
+Introduction. The term experiment is defined as the systematic procedure carried out under controlled conditions in order to discover an unknown effect, to test or establish a hypothesis, or to illustrate a known effect. ... Experiments can be designed in many different ways to collect this information.
+There are three types of experiments you need to know:
+Laboratory / Controlled Experiments. This type of experiment is conducted in a well-controlled environment (not necessarily a laboratory), where accurate measurements are possible. ...
+Field Experiments. ...
+Natural Experiments.
+Obtaining good results from a DOE involves these seven steps:
+Set objectives.
+Select process variables.
+Select an experimental design.
+Execute the design.
+Check that the data are consistent with the experimental assumptions.
+Analyze and interpret the results.
+Use/present the results (may lead to further runs or DOE's).

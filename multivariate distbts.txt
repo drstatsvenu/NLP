@@ -1,0 +1,38 @@
+The following are the multivariate distributions:
+B
+Bivariate von Mises distribution
+C
+Complex normal distribution
+Complex Wishart distribution
+D
+Dirichlet distribution
+G
+Generalized Dirichlet distribution
+Generalized multivariate log-gamma distribution
+Grouped Dirichlet distribution
+I
+Inverse matrix gamma distribution
+Inverse-Wishart distribution
+Inverted Dirichlet distribution
+M
+Matrix gamma distribution
+Matrix normal distribution
+Matrix t-distribution
+Matrix variate beta distribution
+Mehler kernel
+Multivariate Behrens–Fisher problem
+Multivariate Laplace distribution
+Multivariate logistic distribution
+Multivariate normal distribution
+Multivariate t-distribution
+Multivariate Pareto distribution
+Multivariate stable distribution
+N
+Normal-gamma distribution
+Normal-inverse-gamma distribution
+Normal-inverse-Wishart distribution
+Normal-Wishart distribution
+V
+Von Mises–Fisher distribution
+W
+Wishart distribution

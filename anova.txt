@@ -1,0 +1,11 @@
+Analysis of variance (ANOVA) is a collection of statistical models and their associated estimation procedures (such as the "variation" among and between groups) used to analyze the differences among group means in a sample. ANOVA was developed by statistician and evolutionary biologist Ronald Fisher.
+The one-way analysis of variance (ANOVA) is used to determine whether there are any statistically significant differences between the means of three or more independent (unrelated) groups.
+The F statistic is in the rightmost column of the ANOVA table and is computed by taking the ratio of MSB/MSE.
+...
+The ANOVA Procedure
+= sample mean of the jth treatment (or group),
+= overall sample mean,
+k = the number of treatments or independent comparison groups, and.
+N = total number of observations or total sample size.
+The significant differences between T-test and ANOVA are discussed in detail in the following points: A hypothesis test that is used to compare the means of two populations is called t-test. A statistical technique that is used to compare the means of more than two populations is known as Analysis of Variance or ANOVA.May 25, 2016
+

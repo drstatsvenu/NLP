@@ -1,0 +1,12 @@
+Probability Sampling is a sampling technique in which sample from a larger population are chosen using a method based on the theory of probability. For a participant to be considered as a probability sample, he/she must be selected using a random selection.
+The difference between nonprobability and probability sampling is that nonprobability sampling does not involve random selection and probability sampling does. ... At least with a probabilistic sample, we know the odds or probability that we have represented the population well.
+A probability sampling method is any method of sampling that utilizes some form of random selection. In order to have a random selection method, you must set up some process or procedure that assures that the different units in your population have equal probabilities of being chosen.
+The types of probability sampling are explained below:
+Simple Random Sampling.
+Stratified Random Sampling.
+Systematic Sampling.
+Cluster Sampling.
+Multi-stage Sampling.
+Purposive Sampling.
+Convenience Sampling.
+Snow-ball Sampling.

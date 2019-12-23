@@ -1,0 +1,10 @@
+Branching Process
+The Branching Process is a simple but elegant model of population growth.
+A branching process is defined as follows  
+1.	There is a single individual at time zero
+2.	Every individual lives exactly one unit of time, then produces offspring, and dies 
+3.	The number of offspring may be 0, 1, 2, . . ., and there is some probability of producing k offspring 
+4.	All individuals reproduce independently. Different individuals have different family sizes but the family sizes have the same distribution as that of offspring
+Two common formulations of branching process are – 
+•	Galton–Watson process
+•	Random walk

@@ -1,0 +1,15 @@
+Markov property is the probability that the process moving to the next state depends only on the present state and not on the previous states.
+
+Markov Chain
+A Markov chain is a stochastic process with the Markov property. The term Markov chain refers to the sequence of random variables such a process moves through, with the Markov property defining serial dependence only between adjacent periods as in a chain. It can thus be used for describing systems that follow a chain of linked events, where what happens next depends only on the current state of the system. The system's state space and time parameter index need to be specified. 
+Properties 
+1.	A Markov chain is said to be irreducible if it is possible to get to any state from any state.
+2.	A state j is said to be accessible from a state i if a system started in state i has a non-zero probability of transitioning into state j at some point. 
+3.	A state i is said to communicate with state j if the two states are accessible to each other. A communicating class is a maximal set of states such that every pair of states in the class communicates with each other. 
+4.	A state i has period k if any return to state i must occur in multiples of k time steps.
+5.	A state i is said to be transient if, given that we start in state i, there is a non-zero probability that we will never return to i. 
+6.	State i is recurrent (or persistent) if it is not transient. Recurrent states are guaranteed with probability 1 to have a finite hitting time. Recurrence and transience are class properties, that is, they either hold or do not hold equally for all members of a communicating class. 
+7.	The mean recurrence time at state i is the expected return time. State i is positive recurrent if mean recurrence time is finite otherwise, state i is null recurrent.
+8.	A state i is called absorbing if it is impossible to leave this state. 
+9.	A state i is said to be ergodic if it is aperiodic and positive recurrent. 
+10.	If the Markov chain is irreducible and aperiodic, then there is a unique stationary distribution. The stationary distribution for an irreducible recurrent continuous time markov chain is the probability distribution to which the process converges for large values of time.

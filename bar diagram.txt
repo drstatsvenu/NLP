@@ -1,0 +1,8 @@
+A bar graph (also known as a bar chart or bar diagram) is a visual tool that uses bars to compare data among categories. A bar graph may run horizontally or vertically. The important thing to know is that the longer the bar, the greater its value. Bar graphs consist of two axes.
+A bar graph is a chart that uses bars to show comparisons between categories of data. The bars can be either horizontal or vertical. Bar graphs with vertical bars are sometimes called vertical bar graphs.Nov 8, 2014
+A bar chart is a type of chart which shows the values of different categories of data as rectangular bars with different lengths. A histogram is a bar chart that shows how data is spread over its categories. It is another one dimensional diagram also known as pillar diagram or column graph .
+Bar graphs are used to display data in a similar way to line graphs. However, rather than using a point on a plane to define a value, a bar graph uses a horizontal or vertical rectangular bar that levels off at the appropriate level.
+Different types of bar charts
+Horizontal bar charts. Bar charts are normally drawn so that the bars are vertical which means that the taller the bar, the larger the category. ...
+Grouped bar charts. Grouped bar charts are a way of showing information about different sub-groups of the main categories. ...
+Stacked bar charts.

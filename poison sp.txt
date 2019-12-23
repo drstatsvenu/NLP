@@ -1,0 +1,6 @@
+Poisson Process
+A stochastic process is called a Poisson process with rates if all the following conditions hold
+1.	Process initially starts at time zero with value zero
+2.	Process has independent increments
+3.	The number of arrivals in any interval of time length has Poisson distribution
+4.	The probability of two or more events happening in time h is of order h

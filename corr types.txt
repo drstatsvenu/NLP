@@ -1,0 +1,17 @@
+Types of Correlation
+There are different types of Correlation. They are listed as follows:
+1. Positive Correlation:A positive correlation is a correlation in the same direction.
+2. Negative Correlation:A negative correlation is a correlation in the opposite direction.
+3. Partial Correlation:The correlation is partial if we study the relationship between two variables keeping all other variables constant.
+4. Linear Correlation:When the change in one variable results in the constant change in the other variable, we say the correlation is linear. When there is a linear correlation, the points plotted will be in a straight line
+5. Zero Order Correlation :One of the most common and basic techniques for analyzing the relationships between variables is zero-order correlation. The value of a correlation coefficient can vary from -1 to +1. A -1 indicates a perfect negative correlation, while a +1 indicates a perfect positive correlation. A correlation of zero means there is no relationship between the two variables.
+6. Scatter Plot Correlation :A scatter plot is a type of mathematical diagram using cartesian coordinates to display values for two variables for a set of data. Scatter plots will often show at a glance whether a relationship exists between two sets of data. The data displayed on the graph resembles a line rising from left to right. Since the slope of the line is positive, there is a positive correlation between the two sets of data.
+7: Simple Correlation:If there are only two variable under study, the correlation is said to be simple. 
+8:Multiple Correlations:When one variable is related to a number of other variables, the correlation is not simple. It is multiple if there is one variable on one side and a set of variables on the other side. 
+Kendall rank correlation: Kendall rank correlation is a non-parametric test that measures the strength of dependence between two variables.  If we consider two samples, a and b, where each sample size is n, we know that the total number of pairings with a b is n(n-1)/2.  The following formula is used to calculate the value of Kendall rank correlation:
+Spearman rank correlation: Spearman rank correlation is a non-parametric test that is used to measure the degree of association between two variables.  The Spearman rank correlation test does not carry any assumptions about the distribution of the data and is the appropriate correlation analysis when the variables are measured on a scale that is at least ordinal.
+The multiple correlation and partial correlation are categorized as related variation among three or more variables. Two variables are correlated only when they vary in such a way that the higher and lower values of one variable corresponds to the higher and lower values of the other variable. We might also get to know if they are correlated when the higher value of one variable corresponds with the lower value of the other.
+Coefficient of Correlation
+Coefficient of correlation, r, called the linear correlation coefficient, measures the strength and the direction of a linear relationship between two variables. It also called as Pearson product moment correlation coefficient. The algebraic method of measuring the correlation is called the coefficient of correlation. 
+
+

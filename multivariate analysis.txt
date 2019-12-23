@@ -1,0 +1,10 @@
+Multivariate analysis (MVA) is based on the statistical principle of multivariate statistics, which involves observation and analysis of more than one statistical outcome variable at a time. In design and analysis, the technique is used to perform trade studies across multiple dimensions while taking into account the effects of all variables on the responses of interest.
+
+Uses for multivariate analysis include:
+
+design for capability (also known as capability-based design)
+inverse design, where any variable can be treated as an independent variable
+Analysis of Alternatives (AoA), the selection of concepts to fulfil a customer need
+analysis of concepts with respect to changing scenarios
+identification of critical design-drivers and correlations across hierarchical levels.
+Multivariate analysis can be complicated by the desire to include physics-based analysis to calculate the effects of variables for a hierarchical "system-of-systems". Often, studies that wish to use multivariate analysis are stalled by the dimensionality of the problem. These concerns are often eased through the use of surrogate models, highly accurate approximations of the physics-based code. Since surrogate models take the form of an equation, they can be evaluated very quickly. This becomes an enabler for large-scale MVA studies: while a Monte Carlo simulation across the design space is difficult with physics-based codes, it becomes trivial when evaluating surrogate models, which often take the form of response-surface equations.

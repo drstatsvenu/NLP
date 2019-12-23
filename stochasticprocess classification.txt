@@ -1,0 +1,13 @@
+A stochastic process is a collection or ensemble of random variables indexed by a variable, usually representing time. 
+Elements of Stochastic Process
+Stochastic processes are classified by 
+•	State spaces – State space is the range or possible values of all the random variables in a stochastic process 
+•	Index / Parameter set – Set of values taken by the index variable 
+•	The dependence relations among the random variables
+
+Classification of Stochastic Processes
+A Stochastic Process can be classified into four broad categories based on whether the state space and time space are discretized or not.
+•	Discrete Space Discrete Time 
+•	Discrete Space Continuous Time
+•	Continuous Space Discrete Time
+•	Continuous Space Continuous Time

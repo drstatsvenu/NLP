@@ -1,0 +1,7 @@
+Weiner Process
+A standard one-dimensional Wiener process also called Brownian motion is a stochastic process indexed by nonnegative real numbers usually time with the following properties
+1.	The process starts at time zero with initial value zero
+2.	With probability one, stochastic process is continuous in time 
+3.	The process has stationary, independent increments
+4.	The increment has the normal distribution 
+

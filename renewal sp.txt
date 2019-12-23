@@ -1,0 +1,6 @@
+Renewal Process
+A renewal process looks at successive occurrences of events in terms of random variables. The major reason for studying renewal processes is that many complicated processes have randomly occurring instants at which the system returns to a state probabilistically equivalent to the starting state. These embedded renewal epochs allow us to separate the long-term behavior of the process from the behavior within each renewal period. A renewal process is an arrival process in which the interarrival intervals are positive, independent and identically distributed (IID) random variables (random variables). Renewal processes since they are arrival processes can be specified in three standard ways
+•	By the joint distributions of the arrival epochs
+•	By the joint distributions of the interarrival times
+•	By the joint distributions of the counting random variables, in continuous time
+

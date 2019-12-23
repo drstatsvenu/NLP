@@ -1,0 +1,8 @@
+Nonlinear regression	
+When the model function is not linear in the parameters, the sum of squares must be minimized by an iterative procedure. This introduces many complications which are summarized in Differences between linear and non-linear least squares.
+Although the parameters of a regression model are usually estimated using the method of least squares, other methods which have been used include:
+Bayesian methods, e.g. Bayesian linear regression
+Percentage regression, for situations where reducing percentage errors is deemed more appropriate.[25]
+Least absolute deviations, which is more robust in the presence of outliers, leading to quantile regression
+Nonparametric regression, requires a large number of observations and is computationally intensive
+Distance metric learning, which is learned by the search of a meaningful distance metric in a given input space.[26]

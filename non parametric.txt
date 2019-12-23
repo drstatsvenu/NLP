@@ -1,0 +1,51 @@
+ The assumptions made about the process generating the data are much less than in parametric statistics and may be minimal.[7] For example, every continuous probability distribution has a median, which may be estimated using the sample median or the Hodges–Lehmann–Sen estimator, which has good properties when the data arise from simple random sampling.
+  Non-parametric models
+Non-parametric models differ from parametric models in that the model structure is not specified a priori but is instead determined from data. The term non-parametric is not meant to imply that such models completely lack parameters but that the number and nature of the parameters are flexible and not fixed in advance.
+
+A histogram is a simple nonparametric estimate of a probability distribution.
+Kernel density estimation provides better estimates of the density than histograms.
+Nonparametric regression and semiparametric regression methods have been developed based on kernels, splines, and wavelets.
+Data envelopment analysis provides efficiency coefficients similar to those obtained by multivariate analysis without any distributional assumption.
+KNNs classify the unseen instance based on the K points in the training set which are nearest to it.
+A support vector machine (with a Gaussian kernel) is a nonparametric large-margin classifier.
+Method of moments (statistics) with polynomial probability distributions.
+Non-parametric (or distribution-free) inferential statistical methods are mathematical procedures for statistical hypothesis testing which, unlike parametric statistics, make no assumptions about the probability distributions of the variables being assessed. The most frequently used tests include
+
+Analysis of similarities
+Anderson–Darling test: tests whether a sample is drawn from a given distribution
+Statistical bootstrap methods: estimates the accuracy/sampling distribution of a statistic
+Cochran's Q: tests whether k treatments in randomized block designs with 0/1 outcomes have identical effects
+Cohen's kappa: measures inter-rater agreement for categorical items
+Friedman two-way analysis of variance by ranks: tests whether k treatments in randomized block designs have identical effects
+Kaplan–Meier: estimates the survival function from lifetime data, modeling censoring
+Kendall's tau: measures statistical dependence between two variables
+Kendall's W: a measure between 0 and 1 of inter-rater agreement
+Kolmogorov–Smirnov test: tests whether a sample is drawn from a given distribution, or whether two samples are drawn from the same distribution
+Kruskal–Wallis one-way analysis of variance by ranks: tests whether > 2 independent samples are drawn from the same distribution
+Kuiper's test: tests whether a sample is drawn from a given distribution, sensitive to cyclic variations such as day of the week
+Logrank test: compares survival distributions of two right-skewed, censored samples
+Mann–Whitney U or Wilcoxon rank sum test: tests whether two samples are drawn from the same distribution, as compared to a given alternative hypothesis.
+McNemar's test: tests whether, in 2 × 2 contingency tables with a dichotomous trait and matched pairs of subjects, row and column marginal frequencies are equal
+Median test: tests whether two samples are drawn from distributions with equal medians
+Pitman's permutation test: a statistical significance test that yields exact p values by examining all possible rearrangements of labels
+Rank products: detects differentially expressed genes in replicated microarray experiments
+Siegel–Tukey test: tests for differences in scale between two groups
+Sign test: tests whether matched pair samples are drawn from distributions with equal medians
+Spearman's rank correlation coefficient: measures statistical dependence between two variables using a monotonic function
+Squared ranks test: tests equality of variances in two or more samples
+Tukey–Duckworth test: tests equality of two distributions by using ranks
+Wald–Wolfowitz runs test: tests whether the elements of a sequence are mutually independent/random
+Wilcoxon signed-rank test: tests whether matched pair samples are drawn from populations with different mean ranks
+History
+Early nonparametric statistics include the median (13th century or earlier, use in estimation by Edward Wright, 1599; see Median § History) and the sign test by John Arbuthnot (1710) in analyzing the human sex ratio at birth (see Sign test § History).[2][3]
+In statistics, a semiparametric model is a statistical model that has parametric and nonparametric components.
+
+A statistical model is a parameterized family of distributions: {\displaystyle \{P_{\theta }:\theta \in \Theta \}} \{P_{\theta }:\theta \in \Theta \} indexed by a parameter {\displaystyle \theta } \theta .
+
+A parametric model is a model in which the indexing parameter {\displaystyle \theta } \theta  is a vector in {\displaystyle k} k-dimensional Euclidean space, for some nonnegative integer {\displaystyle k} k.[1] Thus, {\displaystyle \theta } \theta  is finite-dimensional, and {\displaystyle \Theta \subseteq \mathbb {R} ^{k}} {\displaystyle \Theta \subseteq \mathbb {R} ^{k}}.
+With a nonparametric model, the set of possible values of the parameter {\displaystyle \theta } \theta  is a subset of some space {\displaystyle V} V, which is not necessarily finite-dimensional. For example, we might consider the set of all distributions with mean 0. Such spaces are vector spaces with topological structure, but may not be finite-dimensional as vector spaces. Thus, {\displaystyle \Theta \subseteq V} {\displaystyle \Theta \subseteq V} for some possibly infinite-dimensional space {\displaystyle V} V.
+With a semiparametric model, the parameter has both a finite-dimensional component and an infinite-dimensional component (often a real-valued function defined on the real line). Thus, {\displaystyle \Theta \subseteq \mathbb {R} ^{k}\times V} {\displaystyle \Theta \subseteq \mathbb {R} ^{k}\times V}, where {\displaystyle V} V is an infinite-dimensional space.
+It may appear at first that semiparametric models include nonparametric models, since they have an infinite-dimensional as well as a finite-dimensional component. However, a semiparametric model is considered to be "smaller" than a completely nonparametric model because we are often interested only in the finite-dimensional component of {\displaystyle \theta } \theta . That is, the infinite-dimensional component is regarded as a nuisance parameter.[2] In nonparametric models, by contrast, the primary interest is in estimating the infinite-dimensional parameter. Thus the estimation task is statistically harder in nonparametric models.
+
+These models often use smoothing or kernels.
+A well-known example of a semiparametric model is the Cox proportional hazards model.[3] If we are interested in studying the time {\displaystyle T} T to an event such as death due to cancer or failure of a light bulb, the Cox model specifies the following distribution function for {\displaystyle T} T:

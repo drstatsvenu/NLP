@@ -1,0 +1,8 @@
+A histogram is a bar graph of raw data that creates a picture of the data distribution. The bars represent the frequency of occurrence by classes of data. A histogram shows basic information about the data set, such as central location , width of spread , and shape.
+A histogram represents the frequency distribution of continuous variables. Conversely, a bar graph is a diagrammatic comparison of discrete variables. Histogram presents numerical data whereas bar graph shows categorical data. The histogram is drawn in such a way that there is no gap between the bars.Apr 30, 2016
+A histogram is a display of statistical information that uses rectangles to show the frequency of data items in successive numerical intervals of equal size. ... Some histograms are presented with the independent variable along the vertical axis and the dependent variable along the horizontal axis.
+A histogram is a graphical display of data using bars of different heights. In a histogram, each bar groups numbers into ranges. ... A histogram displays the shape and spread of continuous sample data.
+Histogram: Study the shape
+Bell-shaped: A bell-shaped picture, shown below, usuallypresents a normal distribution.
+Bimodal: A bimodal shape, shown below, has two peaks. ...
+Skewed right: Some histograms will show a skewed distribution to the right, as shown below.

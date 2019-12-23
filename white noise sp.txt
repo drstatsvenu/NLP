@@ -1,0 +1,6 @@
+White Noise Process
+A stochastic process in which the random variables are such that 
+1.	The expectation is always constant and equal to zero 
+2.	Variance is constant
+3.	The variables of the process are uncorrelated for all lags
+is called white noise with zero mean and constant variance.

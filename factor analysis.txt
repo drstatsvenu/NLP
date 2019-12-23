@@ -1,0 +1,10 @@
+Factor analysis is used to uncover the latent structure (dimensions) of a set of variables. It reduces attribute space from a larger number of variables to a smaller number of factors. Factor analysis originated in the 20th century with Charles Spearman's attempts to show that a wide variety of mental tests could be explained by a single, underlying intelligence factor.
+
+Applications:
+
+To reduce a large number of variables to a smaller number of factors for data modeling
+To validate a scale or index by demonstrating that its constituent items load on the same factor, and to drop proposed scale items which cross-load on more than one factor.
+To select a subset of variables from a larger set, based on which original variables have the highest correlations with some other factors.
+To create a set of factors to be treated as uncorrelated variables as one approach to handling multi-collinearity in such procedures as multiple regression
+To integrate different data in earth sciences and geo-modeling. For example, integration of drilling and seismic data [1]
+Factor analysis is part of the general linear model (GLM) family of procedures and makes many of the same assumptions as multiple regression, but it uses multiple outcomes.

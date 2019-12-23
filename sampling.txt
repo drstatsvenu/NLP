@@ -1,0 +1,12 @@
+Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population. The methodology used to sample from a larger population depends on the type of analysis being performed but may include simple random sampling or systematic sampling.Jun 21, 2018
+The main types of probability sampling methods are simple random sampling, stratified sampling, cluster sampling, multistage sampling, and systematic random sampling. The key benefit of probability sampling methods is that they guarantee that the sample chosen is representative of the population.
+There are five types of sampling: Random, Systematic, Convenience, Cluster, and Stratified. Random sampling is analogous to putting everyone's name into a hat and drawing out several names. Each element in the population has an equal chance of occuring.
+The types of probability sampling are explained below:
+Simple Random Sampling.
+Stratified Random Sampling.
+Systematic Sampling.
+Cluster Sampling.
+Multi-stage Sampling.
+Purposive Sampling.
+Convenience Sampling.
+Snow-ball Sampling.

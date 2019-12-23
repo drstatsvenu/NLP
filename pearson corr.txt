@@ -1,0 +1,18 @@
+Correlation:
+In statistics,dependence or association is any statistical relationship, whether causal or not, between two random variables or bivariate data.
+Correlations are useful because they can indicate a predictive relationship that can be exploited in practice. For example, an electrical utility may produce less power on a mild day based on the correlation between electricity demand and weather. 
+Pearson correlation :
+Several sets of (x, y) points, with the Pearson correlation coefficient of x and y for each set. Note that the correlation reflects the noisiness and direction of a linear relationship (top row), but not the slope of that relationship (middle), nor many aspects of nonlinear relationships (bottom). N.B.: the figure in the center has a slope of 0 but in that case the correlation coefficient is undefined because the variance of Y is zero.
+The Pearson correlation is defined only if both standard deviations are finite and positive.
+Properties:
+Symmetry property	
+The correlation coefficient is symmetric
+Correlation and independence	
+Rank correlation coefficients	
+Correlation coefficients, such as Spearman's rank correlation coefficient and Kendall's rank correlation coefficient (t) measure the extent to which, as one variable increases, the other variable tends to increase, without requiring that increase to be represented by a linear relationship. If, as the one variable increases, the other decreases, the rank correlation coefficients will be negative. It is common to regard these rank correlation coefficients as alternatives to Pearson's coefficient, used either to reduce the amount of calculation or to make the coefficient less sensitive to non-normality in distributions. However, this view has little mathematical basis, as rank correlation coefficients measure a different type of relationship than the Pearson product-moment correlation coefficient, and are best seen as measures of a different type of association, rather than as alternative measure of the population correlation coefficient.
+The correlation ratio, entropy-based mutual information, total correlation, dual total correlation and polychoric correlation are all also capable of detecting more general dependencies, as is consideration of the copula between them, while the coefficient of determination generalizes the correlation coefficient to m
+Correlation and Casualty:
+The conventional dictum that "correlation does not imply causation" means that correlation cannot be used to infer a causal relationship between the variables
+Pearson correlation coefficient:
+In statistics thePearson correlation coefficient (PCC, pronounced /'p??rs?n/), also referred to as Pearson's r, the Pearson product-moment correlation coefficient (PPMCC) or the bivariate correlation,[1] is a measure of the linear correlation between two variables X and Y. According to the Cauchy–Schwarz inequality it has a value between +1 and -1, where 1 is total positive linear correlation, 0 is no linear correlation, and -1 is total negative linear correlation. It is widely used in the sciences.
+Pearson's correlation coefficient is the covariance of the two variables divided by the product of their standard deviations. The form of the definition involves a "product moment", that is, the mean (the first moment about the origin) of the product of the mean-adjusted random variables; hence the modifier product-moment in the name.

@@ -1,0 +1,8 @@
+A dendrogram is a diagram that shows the hierarchical relationship between objects. It is most commonly created as an output from hierarchical clustering. The main use of a dendrogram is to work out the best way to allocate objects to clusters.
+Steps to Create Dendrogram
+Step 1: Download dendrogram template and open it. Click the following image to download Dendrogram Template, and open with Edraw.
+Step 2: Edit the X-Y Axis. Click on the axis, you will see a floating button on the top right corner. ...
+Step 3: Edit the Clusters.
+A dendrogram is a type of tree diagram showing hierarchical clustering — relationships between similar sets of data. They are frequently used in biology to show clustering between genes or samples, but they can represent any type of grouped data.Nov 15, 2016
+Hierarchical clustering involves creating clusters that have a predetermined ordering from top to bottom. For example, all files and folders on the hard disk are organized in a hierarchy. There are two types of hierarchical clustering, Divisive and Agglomerative.
+Hierarchical Agglomerative Clustering is deterministic except for tied distances when not using single-linkage. DBSCAN is deterministic, except for permutation of the data set in rare cases. k-means is deterministic except for initialization. You can initialize with the first k objects, then it is deterministic, too.Apr 6, 2016
